@@ -1,0 +1,26 @@
+{
+    "workbench.startupEditor": "none",
+    "editor.smoothScrolling": true,
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "editor.folding": true,
+    "editor.insertSpaces": false,
+    "editor.detectIndentation": true,
+    "editor.suggestSelection": "first",
+    "editor.scrollBeyondLastLine": true,
+    "editor.snippetSuggestions": "bottom",
+    "editor.renderControlCharacters": false,
+
+    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.fontWeightBold": "normal",
+
+    "workbench.editor.showTabs": true,
+    "workbench.statusBar.visible": true,
+
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Min Dark"
+}
