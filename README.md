@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on psycologist bot for university
 
 
-[Config for VS Code](https://github.com/gerasimovtltsu/gerasimovtltsu/blob/main/settings.json)
+💻 - [Config for VS Code - https://github.com/gerasimovtltsu/gerasimovtltsu/blob/main/settings.json](https://github.com/gerasimovtltsu/gerasimovtltsu/blob/main/settings.json)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerasimovtltsu&layout=compact)
