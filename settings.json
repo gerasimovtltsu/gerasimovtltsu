@@ -5,22 +5,39 @@
     "breadcrumbs.enabled": false,
     "editor.tabSize": 2,
     "editor.wordWrap": "on",
-    "editor.folding": true,
+    "editor.folding": false, // Убираем отступ между номерами строк и кодом
+    "editor.foldingHighlight": true,
     "editor.insertSpaces": false,
     "editor.detectIndentation": true,
     "editor.suggestSelection": "first",
     "editor.scrollBeyondLastLine": true,
     "editor.snippetSuggestions": "bottom",
     "editor.renderControlCharacters": false,
-
     "terminal.integrated.fontSize": 12,
     "terminal.integrated.copyOnSelection": true,
     "terminal.integrated.cursorBlinking": true,
     "terminal.integrated.fontWeightBold": "normal",
-
     "workbench.editor.showTabs": true,
     "workbench.statusBar.visible": true,
-
     "window.zoomLevel": 0,
-    "workbench.colorTheme": "Min Dark"
+    "workbench.colorTheme": "Min Dark",
+    "extensions.autoUpdate": false,
+    // Editor settings
+    "diffEditor.codeLens": true, // показывает CodeLens подсказки
+    "editor.autoClosingBrackets": "languageDefined", // закрытие скобок зависит от языка
+    "editor.autoClosingDelete": "auto", // определяет, нужно ли удалять соседний тег при удалении основного
+    "editor.autoClosingOvertype": "auto", // определяет, нужно ли закрывать кавычки или скобки
+    "editor.autoClosingQuotes": "languageDefined", // определяет, должен ли редактор автоматически закрывать кавычки после добавления пользователем открывающей кавычки
+    "editor.autoIndent": "full", // отступы в зависимости от языка
+    "editor.bracketPairColorization.enabled": true, // окрашивание парных скобок
+    "editor.colorDecorators": true, // отображает встроенные декораторы цвета и палитру цветов
+    "editor.cursorBlinking": "expand", // нормальная плавная форма моргания курсора
+    "editor.cursorSmoothCaretAnimation": "off", // ненужная анимация перевода курсора
+    "editor.cursorStyle": "line-thin", // указатель в виде тоненькой линии
+    "editor.dragAndDrop": true, // драг н дроп в редакторе
+    "editor.fastScrollSensitivity": 5, // скорость скролла при зажатии Alt
+    "editor.formatOnPaste": true, // форматирование при вставке
+    "editor.formatOnSave": true, // Форматирование при сохранении
+    "editor.glyphMargin": true, // отображение поля слева от номеров строк для отладки
+    "telemetry.telemetryLevel": "off", // отключение отправки телеметрии
 }
