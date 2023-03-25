@@ -1,28 +1,20 @@
 {
-    "workbench.startupEditor": "none",
+    "workbench.startupEditor": "newUntitledFile", // всегда открывать новый безымянный файл
+    "workbench.editor.showTabs": true, // показывать табы
+    "workbench.statusBar.visible": true, // статус бар всегда показывается
+    "window.zoomLevel": 0, // 100% zoom
+    "extensions.autoUpdate": false, // отключение автообновления расширений
+    // Настройки редактора
     "editor.smoothScrolling": true,
     "editor.minimap.enabled": false,
-    "breadcrumbs.enabled": false,
     "editor.tabSize": 2,
-    "editor.wordWrap": "on",
     "editor.folding": false, // Убираем отступ между номерами строк и кодом
     "editor.foldingHighlight": true,
     "editor.insertSpaces": false,
     "editor.detectIndentation": true,
-    "editor.suggestSelection": "first",
-    "editor.scrollBeyondLastLine": true,
-    "editor.snippetSuggestions": "bottom",
+    "editor.scrollBeyondLastLine": true, // скролл за пределы последней строки
+    "editor.snippetSuggestions": "bottom", // подсказки снизу
     "editor.renderControlCharacters": false,
-    "terminal.integrated.fontSize": 12,
-    "terminal.integrated.copyOnSelection": true,
-    "terminal.integrated.cursorBlinking": true,
-    "terminal.integrated.fontWeightBold": "normal",
-    "workbench.editor.showTabs": true,
-    "workbench.statusBar.visible": true,
-    "window.zoomLevel": 0,
-    "workbench.colorTheme": "Min Dark",
-    "extensions.autoUpdate": false,
-    // Editor settings
     "diffEditor.codeLens": true, // показывает CodeLens подсказки
     "editor.autoClosingBrackets": "languageDefined", // закрытие скобок зависит от языка
     "editor.autoClosingDelete": "auto", // определяет, нужно ли удалять соседний тег при удалении основного
@@ -39,5 +31,37 @@
     "editor.formatOnPaste": true, // форматирование при вставке
     "editor.formatOnSave": true, // Форматирование при сохранении
     "editor.glyphMargin": true, // отображение поля слева от номеров строк для отладки
+    "editor.scrollbar.horizontal": "hidden", // отключение горизонтального скроллбара
+    "editor.scrollbar.vertical": "hidden", // отключение вертикального скроллбара
+    "editor.fontSize": 15, // размер шрифта
+    "editor.fontLigatures": false,
     "telemetry.telemetryLevel": "off", // отключение отправки телеметрии
+    "editor.wordWrap": "bounded",
+    "editor.wrappingIndent": "same",
+    "editor.wordWrapColumn": 200, // 100 символов на перенос
+    "editor.suggestSelection": "first",
+    "editor.multiCursorModifier": "ctrlCmd", // мультикурсор через ctrl
+    // Настройки окон 
+    "window.openFilesInNewWindow": "off",
+    // Терминал
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.fontWeightBold": "normal",
+    "terminal.integrated.fontSize": 15,
+    // Проводник
+    "explorer.confirmDelete": true,
+    "explorer.compactFolders": false, // отключает кривое отображение вложенности папок
+    "explorer.confirmDragAndDrop": true,
+    // Emmet
+    "emmet.triggerExpansionOnTab": true,
+    "workbench.editor.tabSizing": "fit",
+    // Debug
+    "debug.toolBarLocation": "hidden",
+    "debug.focusWindowOnBreak": true,
+    // Удаляет неиспользуемые импорты
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true,
+    },
+    // Breadcrumbs
+    "breadcrumbs.enabled": false,
 }
