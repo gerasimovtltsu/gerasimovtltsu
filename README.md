@@ -1,4 +1,4 @@
-# Hi there 👋
+# 👋
 
 🗎 - Config for VS Code - [https://github.com/gerasimovtltsu/gerasimovtltsu/blob/files_branch/settings.json](https://github.com/gerasimovtltsu/gerasimovtltsu/blob/main/settings.json)
 
