@@ -113,6 +113,9 @@ user_pref("privacy.trackingprotection.enabled", false);
 user_pref("privacy.trackingprotection.fingerprinting.enabled", false);
 user_pref("privacy.trackingprotection.pbmode.enabled", false);
 user_pref("privacy.usercontext.about_newtab_segregation.enabled", true);
+user_pref("security.OCSP.enabled", 0);
+user_pref("extensions.checkUpdateSecurity", false);
+user_pref("security.csp.enable", false);
 
 // отключение отправки отчетов об ошибках ssl
 user_pref("security.ssl.errorReporting.automatic", false);
@@ -189,3 +192,22 @@ user_pref("browser.safebrowsing.reportMalwareMistakeURL", "");
 user_pref("browser.safebrowsing.reportPhishMistakeURL", "");
 user_pref("browser.safebrowsing.reportPhishURL", "");
 user_pref("browser.safebrowsing.provider.google4.reportURL", "");
+
+// отключение анимации перехода в фулл скрин и надписей о фулл скрине
+user_pref("full-screen-api.transition-duration.enter", "0 0");
+user_pref("full-screen-api.transition-duration.leave", "0 0");
+user_pref("full-screen-api.transition-duration.enter", "0 0");
+user_pref("full-screen-api.warning.delay", 200);
+user_pref("full-screen-api.warning.timeout", 1000);
+
+// отключение дискового кэша
+user_pref("browser.cache.disk.enable", false);
+user_pref("browser.cache.disk.smart_size.enabled", false);
+user_pref("browser.cache.disk_cache_ssl", false);
+user_pref("browser.cache.offline.enable", false);
+
+// отключение уведомлений и геолокации / включение камеры и мирофона
+user_pref("permissions.default.desktop-notification", 2);
+user_pref("permissions.default.geo", 2);
+user_pref("permissions.default.microphone", 1);
+user_pref("permissions.default.camera", 1);
