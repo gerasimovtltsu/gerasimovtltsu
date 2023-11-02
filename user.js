@@ -228,7 +228,7 @@ user_pref("browser.tabs.opentabfor.middleclick", true);
 user_pref("browser.translation.ui.show", false);
 user_pref("browser.translation.detectLanguage", false);
 
-// полностью убираем автозаполнение (даже настроки из меню)
+// полностью убираем автозаполнение (даже настройки из меню)
 user_pref("extensions.formautofill.available", "off");
 user_pref("extensions.formautofill.creditCards.available", false);
 user_pref("extensions.formautofill.creditCards.enabled", false);
