@@ -211,3 +211,27 @@ user_pref("permissions.default.desktop-notification", 2);
 user_pref("permissions.default.geo", 2);
 user_pref("permissions.default.microphone", 1);
 user_pref("permissions.default.camera", 1);
+
+// отключение бесполезных подсказок при наведении на элементы
+user_pref("browser.chrome.toolbar_tips", false);
+
+// открывать сайты в новой вкладке
+user_pref("browser.link.open_newwindow", 3);
+
+// помещать новые вкладки в конец
+user_pref("browser.tabs.insertRelatedAfterCurrent", false);
+
+// открывать ссылку в новой вкладке при нажатии на пкм
+user_pref("browser.tabs.opentabfor.middleclick", true);
+
+// отключение переводчика
+user_pref("browser.translation.ui.show", false);
+user_pref("browser.translation.detectLanguage", false);
+
+// полностью убираем автозаполнение (даже настроки из меню)
+user_pref("extensions.formautofill.available", "off");
+user_pref("extensions.formautofill.creditCards.available", false);
+user_pref("extensions.formautofill.creditCards.enabled", false);
+user_pref("extensions.formautofill.addresses.enabled", false);
+user_pref("extensions.formautofill.heuristics.enabled", false);
+user_pref("extensions.formautofill.creditCards.hideui", false);
