@@ -69,6 +69,9 @@ user_pref("extensions.pocket.api", "");
 user_pref("extensions.pocket.site", "");
 user_pref("extensions.pocket.oAuthConsumerKey", "");
 
+// отключение рекомендаций при открытии расширений
+user_pref("extensions.htmlaboutaddons.recommendations.enabled", false);
+
 // отключение "социальной" интеграции
 user_pref("social.whitelist", "");
 user_pref("social.toast-notifications.enabled", false);
