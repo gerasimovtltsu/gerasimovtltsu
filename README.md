@@ -6,9 +6,9 @@ Assistant of the Department of Applied Mathematics and Informatics of Togliatti 
 * 🌍  I'm based in Togliatty
 * ✉️  You can contact me at [t.me/gerasimovtltsu](t.me/gerasimovtltsu)
 * 🧠  I'm learning Flask
-* ⚡  Config for VS Code - https://github.com/gerasimovtltsu/gerasimovtltsu/blob/files\_branch/settings.json
-* ⚡  Config for UBlock - https://github.com/gerasimovtltsu/gerasimovtltsu/blob/files\_branch/ublock\_config.txt
-* ⚡  Firefox Config - https://raw.githubusercontent.com/gerasimovtltsu/gerasimovtltsu/files\_branch/user.js
+* ⚡  Config for VS Code - [https://github.com/gerasimovtltsu/gerasimovtltsu/blob/files\_branch/settings.json](https://raw.githubusercontent.com/gerasimovtltsu/gerasimovtltsu/files_branch/settings.json)
+* ⚡  Config for UBlock - [https://github.com/gerasimovtltsu/gerasimovtltsu/blob/files\_branch/ublock\_config.txt](https://raw.githubusercontent.com/gerasimovtltsu/gerasimovtltsu/files_branch/ublock_config.txt)
+* ⚡  Firefox Config - [https://raw.githubusercontent.com/gerasimovtltsu/gerasimovtltsu/files\_branch/user.js](https://raw.githubusercontent.com/gerasimovtltsu/gerasimovtltsu/files_branch/user.js)
 
 ### Skills
 
