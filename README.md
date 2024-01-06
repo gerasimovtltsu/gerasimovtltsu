@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Assistant of the Department of Applied Mathematics and Informatics of Togliatti State University
 
 * 🌍  I'm based in Togliatty
-* ✉️  You can contact me at [t.me/gerasimovtltsu](t.me/gerasimovtltsu)
 * 🧠  I'm learning Flask
 * ⚡  Config for VS Code - [https://github.com/gerasimovtltsu/gerasimovtltsu/blob/files\_branch/settings.json](https://raw.githubusercontent.com/gerasimovtltsu/gerasimovtltsu/files_branch/settings.json)
 * ⚡  Config for UBlock - [https://github.com/gerasimovtltsu/gerasimovtltsu/blob/files\_branch/ublock\_config.txt](https://raw.githubusercontent.com/gerasimovtltsu/gerasimovtltsu/files_branch/ublock_config.txt)
