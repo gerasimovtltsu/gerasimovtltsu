@@ -238,3 +238,6 @@ user_pref("extensions.formautofill.creditCards.enabled", false);
 user_pref("extensions.formautofill.addresses.enabled", false);
 user_pref("extensions.formautofill.heuristics.enabled", false);
 user_pref("extensions.formautofill.creditCards.hideui", false);
+
+// всегда показывать панель с закладками
+user_pref("browser.toolbars.bookmarks.visibility", "always");
